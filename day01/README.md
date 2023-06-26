@@ -1,4 +1,4 @@
-# Beginner - Working with Variables in Python to Manage Data
+# Day01 Beginner - Working with Variables in Python to Manage Data
 
 ## Concepts Practised
 - Printing to the Console in Python
